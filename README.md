@@ -8,13 +8,13 @@
 
 ## About Me
 
-- 🎓 BEng (Hons) Software Engineering Graduate from **London Metropolitan University**
-- 💼 Currently working as a **Software Engineer Intern** at **Ceylon Innovation**
-- 🌱 Currently learning **React** and modern frontend development
-- 🔭 Working on a **Mini Inventory Management System**
-- 🎨 Passionate about **UI/UX Design** with Figma
-- 🤝 Experienced working with Agile and Scrum methodologies
-- 🚀 Always looking for opportunities to improve my skills and build meaningful software
+- BEng (Hons) Software Engineering Graduate from **London Metropolitan University**
+- Currently working as a **Software Engineer Intern** at **Ceylon Innovation**
+- Currently learning **React** and modern frontend development
+- Working on a **Mini Inventory Management System**
+- Passionate about **UI/UX Design** with Figma
+- Experienced working with Agile and Scrum methodologies
+- Always looking for opportunities to improve my skills and build meaningful software
 
 ---
 
@@ -24,10 +24,10 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,php,cs)
 
 ### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql)
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlserver)
 
-### Frameworks & Tools
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,git,github,figma,xd,canva,jira,trello)
+### Tools & Environments
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,git,github,figma,xd,canva,jira,trello,xampp)
 
 ---
 
