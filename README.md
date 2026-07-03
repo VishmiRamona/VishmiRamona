@@ -21,13 +21,13 @@
 ## Tech Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,php,cs)
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" height="40" /> <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="40" /> <img src="https://skillicons.dev/icons?i=php" title="PHP" height="40" /> <img src="https://skillicons.dev/icons?i=cs" title="C#" height="40" />
 
 ### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlserver)
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40" /> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" /> <img src="https://skillicons.dev/icons?i=sqlserver" title="SQL Server (SSMS)" height="40" />
 
 ### Tools & Environments
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,git,github,figma,xd,canva,jira,trello,xampp)
+<img src="https://skillicons.dev/icons?i=react" title="React" height="40" /> <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="40" /> <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" /> <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" /> <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="40" /> <img src="https://skillicons.dev/icons?i=xd" title="Adobe XD" height="40" /> <img src="https://skillicons.dev/icons?i=canva" title="Canva" height="40" /> <img src="https://skillicons.dev/icons?i=jira" title="Jira" height="40" /> <img src="https://skillicons.dev/icons?i=trello" title="Trello" height="40" /> <img src="https://skillicons.dev/icons?i=xampp" title="XAMPP" height="40" />
 
 ---
 
@@ -72,15 +72,7 @@ I'm continuously building new projects to expand my skills and portfolio.
 
 ## Connect With Me
 
-<a href="mailto:vishmiramona@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://linkedin.com/in/vishmiramona">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/vishmiramona">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+<a href="mailto:vishmiramona@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" title="Email" height="40" /></a> <a href="https://linkedin.com/in/vishmiramona"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="40" /></a> <a href="https://github.com/vishmiramona"><img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" /></a>
 
 ---
 
